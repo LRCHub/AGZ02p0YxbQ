@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "103 feat. motoki ohmori",
+  "base_artist": "KERENMI",
+  "createdAt": "2026-02-15T06:53:51.580615Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "103",
+      "artist": "Disciple",
+      "has_synced": false,
+      "path": "select/01_103_Disciple.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "103",
+      "artist": "The Pains of Being Pure At Heart",
+      "has_synced": true,
+      "path": "select/02_103_The_Pains_of_Being_Pure_At_Heart.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sex Therapy 103 (Skit)",
+      "artist": "Ying Yang Twins",
+      "has_synced": false,
+      "path": "select/03_Sex_Therapy_103_(Skit)_Ying_Yang_Twins.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Am The Key - Key 103, Jan '89",
+      "artist": "The La's",
+      "has_synced": false,
+      "path": "select/04_I_Am_The_Key_-_Key_103,_Jan_'89_The_La's.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Way Out - Key 103, Jan '89",
+      "artist": "The La's",
+      "has_synced": false,
+      "path": "select/05_Way_Out_-_Key_103,_Jan_'89_The_La's.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Macarena (River Remix 103 BPM)",
+      "artist": "Los Del Rio",
+      "has_synced": false,
+      "path": "select/06_Macarena_(River_Remix_103_BPM)_Los_Del_Rio.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Simple Minds-103-70 cities as love brings the fall",
+      "artist": "Simple Minds",
+      "has_synced": true,
+      "path": "select/07_Simple_Minds-103-70_cities_as_love_brings_the_fall_Simple_Minds.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Macarena (River Re-Mix 103 BPM)",
+      "artist": "Los Del Río",
+      "has_synced": true,
+      "path": "select/08_Macarena_(River_Re-Mix_103_BPM)_Los_Del_Río.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "My Beautiful Friend (Lionrock 103 BPM vocal mix)",
+      "artist": "The Charlatans",
+      "has_synced": false,
+      "path": "select/09_My_Beautiful_Friend_(Lionrock_103_BPM_vocal_mix)_The_Charlatans.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Smile #5 (see page 103 and 107)",
+      "artist": "Slauson Malone",
+      "has_synced": false,
+      "path": "select/10_Smile__5_(see_page_103_and_107)_Slauson_Malone.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bless the Lord, O My Soul (Psalm 103) - Live",
+      "artist": "Sovereign Grace Music",
+      "has_synced": true,
+      "path": "select/11_Bless_the_Lord,_O_My_Soul_(Psalm_103)_-_Live_Sovereign_Grace_Music.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bless the Lord, O My Soul (Psalm 103)",
+      "artist": "Sovereign Grace Music",
+      "has_synced": true,
+      "path": "select/12_Bless_the_Lord,_O_My_Soul_(Psalm_103)_Sovereign_Grace_Music.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Errtime (Funkymix edit) (103 BPM)",
+      "artist": "Nelly",
+      "has_synced": false,
+      "path": "select/13_Errtime_(Funkymix_edit)_(103_BPM)_Nelly.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Clincher - Version 103",
+      "artist": "Chevelle",
+      "has_synced": true,
+      "path": "select/14_The_Clincher_-_Version_103_Chevelle.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Clincher (version 103)",
+      "artist": "Chevelle",
+      "has_synced": true,
+      "path": "select/15_The_Clincher_(version_103)_Chevelle.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "103 feat. motoki ohmori",
+      "artist": "KERENMI, Motoki Ohmori",
+      "has_synced": false,
+      "path": "select/pl_01_103_feat._motoki_ohmori_KERENMI,_Motoki_Ohmori.txt"
+    }
+  ]
+}
